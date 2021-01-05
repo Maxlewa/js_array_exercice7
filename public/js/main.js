@@ -29,7 +29,8 @@ console.log(classeCoding16);
 
 let tabBoucle = ["a", "b", "c"]
 
-tabBoucle.forEach(element => {
-    console.log(element);
-});
+// tabBoucle.forEach(element => {
+//     console.log(element);
+// });
 
+tabBoucle.forEach(element => console.log(element));
