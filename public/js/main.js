@@ -23,5 +23,13 @@ classeCoding16.push('louise', 'jamila');
 classeCoding16.push('alex');
 classeCoding16.pop('alex');
 
-
 console.log(classeCoding16);
+
+// BONUS
+
+let tabBoucle = ["a", "b", "c"]
+
+tabBoucle.forEach(element => {
+    console.log(element);
+});
+
